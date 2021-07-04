@@ -79,7 +79,7 @@ section{
     width: 150px;
     float: left;
     margin-top: 25px;
-    cursor: pointer;
+    cursor: grab;
 }
 
 .menu {
